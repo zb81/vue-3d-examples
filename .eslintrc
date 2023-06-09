@@ -1,0 +1,4 @@
+{
+  "extends":["@zb81/vue"],
+  "ignorePatterns":["dist","public"]
+}
