@@ -1,0 +1,1 @@
+import{d as e,c as t,a,w as o,u as n,o as r,b as s,R as c}from"./index-bb601d5a.js";const l=e({__name:"Home",setup(u){return(_,i)=>(r(),t("div",null,[a(n(c),{to:"/city"},{default:o(()=>[s(" City ")]),_:1})]))}});export{l as default};
